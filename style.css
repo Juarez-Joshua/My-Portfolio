@@ -1,17 +1,26 @@
 body{
   background-color:#41b3a3;
+  text-align:center;
 }
-header, footer{
+header{
   background-color:#c38d9e;
   font-family: "Times New Roman";
   text-align: center;
 }
-
-
 .resize {
   display: block;
   width:50%;
   height: auto;
   margin-left: auto;
   margin-right: auto;
+}
+header{
+  padding: 0;
+}
+footer{
+  margin-bottom:auto;
+}
+ul, ol{
+    text-align: center;
+    list-style-position: inside;
 }
