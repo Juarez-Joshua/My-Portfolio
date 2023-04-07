@@ -1,0 +1,17 @@
+body{
+  background-color:#41b3a3;
+}
+header, footer{
+  background-color:#c38d9e;
+  font-family: "Times New Roman";
+  text-align: center;
+}
+
+
+.resize {
+  display: block;
+  width:50%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
